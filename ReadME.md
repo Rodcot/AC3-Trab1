@@ -3,7 +3,7 @@
 
 O objetivo do trabalho é realizar simulações que comprovem os benefícios da exploração da localidade temporal e espacial. Importante explorar o espaço de projeto fazendo alterações (cenários) em tamanhos de linhas, blocos, associatividade, tamanhos de caches, políticas de coerência, políticas de substituição, etc...
 
-Os arquivos de arquitetura e trace utilizados para fazer a simulações estão disponíveis no repositório, além de um google sheets com todos os resultados de cada simulação em detalhe e as métricas mais importantes que foram usadas para analisar e fazer o trabalho.
+Os arquivos de arquitetura e trace utilizados para fazer a simulações estão disponíveis no repositório, além de um google sheets com todos os resultados de cada simulação em detalhe e as métricas mais importantes que foram usadas para analisar e fazer o trabalho, que se encontra [aqui](https://docs.google.com/spreadsheets/d/1F1hkm4D1oxhEgISpn4oip0ueFISjYTXufqViSWmLXSs/edit#gid=296334925).
 
 As simulações feitas foram:
 
